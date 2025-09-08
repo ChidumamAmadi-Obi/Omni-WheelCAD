@@ -21,5 +21,3 @@ The goal of this project was to practice CAD and prototyping while creating a co
 
 ## 🖼️ Preview
 <img width="1873" height="747" alt="Screenshot 2025-08-20 095153" src="https://github.com/user-attachments/assets/a6402987-e9b3-4f64-b556-e9e7eee842bd" />
-
-<img width="1873" height="747" alt="Screenshot 2025-08-20 095153" src="https://github.com/user-attachments/assets/f6d3ecfa-3bc0-49b7-8488-f8388e6a8f48" />
